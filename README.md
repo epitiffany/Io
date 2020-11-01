@@ -21,8 +21,8 @@ We learned that spending more time on planning than producing is essential to be
 **What's Next?**  
 There are still many plans laid out for Io, some of which are in progress as you read this. These plans include:
 
--Expanding access to different worlds so users can make more choices and unlock different fates
--Mini games against side characters/monsters
--Animations
--Custom GUI appearance
+-Expanding access to different worlds so users can make more choices and unlock different fates  
+-Mini games against side characters/monsters  
+-Animations  
+-Custom GUI appearance  
 -More themes options! (Christmas is calling)
